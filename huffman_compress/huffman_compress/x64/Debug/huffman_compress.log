@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(61,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(63,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(69,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(71,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(104,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(106,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(156,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(157,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(167,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(178,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(197,14): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\char_string.h(210,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\huffman_compress.h(89,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\huffman_compress.h(104,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\huffman_compress.h(175,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\redmi\Desktop\huffman_compress\huffman_compress\huffman_compress.h(190,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  huffman_compress.vcxproj -> C:\Users\redmi\Desktop\huffman_compress\x64\Debug\huffman_compress.exe
